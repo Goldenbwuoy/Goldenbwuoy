@@ -1,6 +1,7 @@
 ## Hi there, I'm Golden 👋
 
 #### I'm a Software Engineer!!
+Check out my pinned repositories, give a ⭐️ if you like them.
 
 ---
 
